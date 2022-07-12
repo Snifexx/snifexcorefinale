@@ -1,0 +1,5 @@
+name: SnifexCore
+version: '${version}'
+main: me.snifex.snifexcore.Main
+api-version: 1.19
+authors: [ Snifex ]

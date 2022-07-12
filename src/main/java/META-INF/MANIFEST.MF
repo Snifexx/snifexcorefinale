@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: kotlin-stdlib-jdk8-1.7.0.jar kotlin-stdlib-1.7.0.jar annotat
+ ions-13.0.jar kotlin-stdlib-jdk7-1.7.0.jar kotlin-stdlib-common-1.7.0.j
+ ar
+
